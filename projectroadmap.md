@@ -1,6 +1,6 @@
 **Music studio finder roadmap**
 
-- [] change buttons on locationfinder.py from food locations to zipcode zones                      finish by **(11/15)**
-- [] edit locationfinder.py to display studios rather than fast food resturants                    finish by **(11/16)**
-- [] use the edited code from locationfinder.py and merge the widget into my flask website         finsih by **(11/22)**
-- [] Design the flask website to be more aesthetically pleasing                                    finish by **(11/23)**
+- [x] change buttons on locationfinder.py from food locations to zipcode zones                      
+- [] edit locationfinder.py to display studios rather than fast food resturants                    
+- [] use the edited code from locationfinder.py and merge the widget into my flask website         
+- [] Design the flask website to be more aesthetically pleasing                                    
