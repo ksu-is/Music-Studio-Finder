@@ -1,6 +1,11 @@
 **Music studio finder roadmap**
-
-- [x] change buttons on locationfinder.py from food locations to zipcode zones                      
-- [] edit locationfinder.py to display studios rather than fast food resturants                    
-- [] use the edited code from locationfinder.py and merge the widget into my flask website         
-- [] Design the flask website to be more aesthetically pleasing                                    
+- [x] create the flask website that hosts Music Studio Finder
+- [x] Add Professional studio page                       
+- [x] Add Home studio page                    
+- [x] create a list of known and unknown studios in the Atlanta area      
+- [x] pair studios based on searchable zipcodes                                  
+- [x] find .py application that can be used to search for buildings on google maps (locationfinder.py)
+- [ ] use the edited code from locationfinder.py and merge the widget into my flask website
+- [ ] change buttons on locationfinder.py from food locations to zipcode zones
+- [ ] Find a better website design
+- [ ] Design the flask website to be more aesthetically pleasing
